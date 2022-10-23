@@ -1,24 +1,13 @@
 # README
+さまざまなハードウェア/デバイスを評価やレビューや議論できるコミュニティーサイト
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rubyバージョン
+ruby 3.0.4p208 (2022-04-12 revision 3fa771dded) [x64-mingw32]
+* 使用フレームワーク
+Rails 7.0.4
+* 使用ライブラリ
+SQLite3
